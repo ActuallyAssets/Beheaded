@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/plate",
+  "textures": {
+    "texture": "blocks/wool_colored_light_blue"
+  }
+}

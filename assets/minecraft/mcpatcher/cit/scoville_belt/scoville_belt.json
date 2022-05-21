@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/carpet",
+  "textures": {
+    "wool": "blocks/wool_colored_yellow"
+  }
+}

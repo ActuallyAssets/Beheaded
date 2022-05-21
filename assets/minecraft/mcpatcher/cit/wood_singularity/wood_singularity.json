@@ -1,0 +1,8 @@
+{
+  "parent": "item/skyblock/block_orientable",
+  "textures": {
+    "front": "blocks/log_spruce",
+    "side": "blocks/log_birch",
+    "top": "blocks/log_acacia"
+  }
+}

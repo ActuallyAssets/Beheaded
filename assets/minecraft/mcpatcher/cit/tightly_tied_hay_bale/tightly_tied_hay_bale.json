@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/block_all",
+  "textures": {
+    "all": "blocks/hay_block_side"
+  }
+}

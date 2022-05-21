@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/skull_64",
+  "textures": {
+    "0": "entity/zombie/zombie"
+  }
+}
