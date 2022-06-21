@@ -1,0 +1,8 @@
+{
+  "parent": "item/skyblock/block_stair",
+  "textures": {
+    "bottom": "blocks/gold_block",
+    "top": "blocks/gold_block",
+    "side": "blocks/gold_block"
+  }
+}

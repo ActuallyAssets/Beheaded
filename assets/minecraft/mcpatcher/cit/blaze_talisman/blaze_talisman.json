@@ -1,0 +1,7 @@
+{
+  "parent": "item/skyblock/block_layered",
+  "textures": {
+    "0": "blocks/wool_colored_orange",
+    "1": "blocks/mob_spawner"
+  }
+}

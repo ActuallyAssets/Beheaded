@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/plate",
+  "textures": {
+    "texture": "blocks/gold_block"
+  }
+}

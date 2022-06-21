@@ -1,0 +1,7 @@
+{
+  "parent": "item/skyblock/block_column",
+  "textures": {
+    "end": "blocks/quartz_block_chiseled_top",
+    "side": "blocks/quartz_block_chiseled"
+  }
+}

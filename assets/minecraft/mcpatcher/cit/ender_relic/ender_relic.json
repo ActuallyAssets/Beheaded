@@ -1,0 +1,9 @@
+{
+  "parent": "item/skyblock/block_end_portal_frame_filled",
+  "textures": {
+    "bottom": "blocks/end_stone",
+    "top": "blocks/endframe_top",
+    "side": "blocks/endframe_side",
+    "eye": "blocks/endframe_eye"
+  }
+}

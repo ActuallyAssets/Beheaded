@@ -1,0 +1,7 @@
+{
+  "parent": "item/skyblock/block_column",
+  "textures": {
+    "end": "blocks/log_oak_top",
+    "side": "blocks/log_oak"
+  }
+}
