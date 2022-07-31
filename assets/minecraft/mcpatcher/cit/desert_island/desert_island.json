@@ -1,0 +1,8 @@
+{
+  "parent": "item/skyblock/cactus",
+  "textures": {
+    "top": "blocks/cactus_top",
+    "side": "blocks/cactus_side",
+    "bottom": "blocks/cactus_bottom"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/skyblock/block_layered",
+  "textures": {
+    "0": "blocks/dirt",
+    "1": "blocks/glass"
+  }
+}

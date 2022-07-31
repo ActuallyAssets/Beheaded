@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/skull_64_basic",
+  "textures": {
+    "0": "entity/wither/wither_invulnerable"
+  }
+}
