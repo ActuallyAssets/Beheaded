@@ -1,0 +1,6 @@
+{
+  "parent": "item/skyblock/block_all",
+  "textures": {
+    "all": "blocks/glass_purple"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "item/skyblock/block_stair",
+  "textures": {
+    "bottom": "blocks/glass_yellow",
+    "top": "blocks/glass_yellow",
+    "side": "blocks/glass_yellow"
+  }
+}

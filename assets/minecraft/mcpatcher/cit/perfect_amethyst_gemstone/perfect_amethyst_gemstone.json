@@ -1,0 +1,7 @@
+{
+  "parent": "item/skyblock/block_tesseract",
+  "textures": {
+    "0": "blocks/wool_colored_purple",
+    "1": "blocks/glass_purple"
+  }
+}
